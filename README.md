@@ -32,7 +32,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-[Apresente os resultados do seu projeto](https://drive.google.com/file/d/1nMJktX0JOiMs2ZCviM9ap59SMVg3vZTM/view?usp=sharing)
+https://drive.google.com/file/d/1nMJktX0JOiMs2ZCviM9ap59SMVg3vZTM/view?usp=sharing
 
 ## 💭 Reflexão (Opcional)
 É sempre interessante utilizar o apoio da IA, para resumir, melhorar e otimizar o trabalho
