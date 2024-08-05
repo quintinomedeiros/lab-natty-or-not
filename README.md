@@ -26,13 +26,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Oi, criei meu currículo de maneira generativa. O que é meu e o que é da IA?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat-GPT, Canva e Bing
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fiz a criação da logo no Bing; apresentei um resumo e o chat-GPT após algumas interações criou o conteúdo; e utilizei um template do Canva para criar o conteúdo.
 
 ## 🚀 Resultados
-https://drive.google.com/file/d/1nMJktX0JOiMs2ZCviM9ap59SMVg3vZTM/view?usp=sharing
+[Resultado](https://drive.google.com/file/d/1nMJktX0JOiMs2ZCviM9ap59SMVg3vZTM/view?usp=sharing)
 
 ## 💭 Reflexão (Opcional)
 É sempre interessante utilizar o apoio da IA, para resumir, melhorar e otimizar o trabalho
